@@ -16,6 +16,7 @@ security challenges on TryHackMe.
 - 🧠 Currently learning: SIEM, Splunk, ELK Stack, Threat Hunting
 - 🏆 Practicing on: TryHackMe (SOC Level 1 Path)
 - 💬 Ask me about: Networking, Linux, Security Monitoring
+- 🧪 Building a Home SOC Lab using Wazuh & Splunk
 
 ---
 
@@ -23,12 +24,13 @@ security challenges on TryHackMe.
 
 | Category | Tools / Skills |
 |----------|---------------|
-| SIEM | Splunk, ELK Stack, Microsoft Sentinel |
+| SIEM | Splunk, ELK Stack, Qradar |
 | Network | Wireshark, Nmap, tcpdump |
 | OS | Linux (Kali, Ubuntu), Windows Server |
 | Scripting | Python (basics), Bash |
 | Incident Response | Log Analysis, IOC Investigation |
 | Platforms | TryHackMe, Hack The Box |
+| Threat Intelligence | VirusTotal, MITRE ATT&CK |
 
 ---
 
